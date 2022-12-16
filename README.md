@@ -2,7 +2,7 @@
 
 ## Description
 
-A text editor that runs in the browser that follows the PWA standard. The applicationworks offline and features data persistence techniques.
+A text editor that follows the PWA standard and runs in the browser. The application works offline and features data persistence techniques.
 
 ## Mock-up
 
